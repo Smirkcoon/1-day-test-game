@@ -5,6 +5,7 @@ Gameplay 1-day-test-game.mp4<br>
 Gameplay 1-day-test-game gif.gif<br>
 <br>
 Controller: Arrow or WSAD.<br>
+resolution: 800:600
 The mushroom adds 100 points, Apple 500, Amanita takes life.<br>
 An apple is generated after a random time from 2 to 7 seconds, replacing one of the Mushrooms.<br>
 The apple will become a mushroom after the enemy turns it into a fly agaric.<br>
