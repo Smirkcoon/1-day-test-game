@@ -1,9 +1,9 @@
 # 1-day-test-game
 made at the end of 2018<br>
 spent about 20 hours developing the game, used free sprites, sounds, used A * Pathfinding Project to find the path<br>
-Gameplay 1-day-test-game.mp4
-Gameplay 1-day-test-game gif.gif
-
+Gameplay 1-day-test-game.mp4<br>
+Gameplay 1-day-test-game gif.gif<br>
+<br>
 Controller: Arrow or WSAD.<br>
 The mushroom adds 100 points, Apple 500, Amanita takes life.<br>
 An apple is generated after a random time from 2 to 7 seconds, replacing one of the Mushrooms.<br>
